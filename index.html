@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Phim 19plus
+title: Phim Ma
 ---
+{% include pagination_up %}
 <div class="text-center">
 {% for p in paginator.posts %}
   {% include image %}
 {% endfor %}
 </div>
-{% include pagination %}
+{% include pagination_up %}
