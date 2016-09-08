@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: All Girls Weekend

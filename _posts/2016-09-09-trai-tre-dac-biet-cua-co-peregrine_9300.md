@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Miss Peregrine's Home For...

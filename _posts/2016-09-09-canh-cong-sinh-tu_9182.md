@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: The Other Side of the...

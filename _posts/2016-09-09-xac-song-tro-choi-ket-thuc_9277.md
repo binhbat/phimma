@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Dead Rising: Endgame

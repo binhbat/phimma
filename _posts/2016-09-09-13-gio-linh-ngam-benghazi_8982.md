@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: 13 Hours: The Secret...

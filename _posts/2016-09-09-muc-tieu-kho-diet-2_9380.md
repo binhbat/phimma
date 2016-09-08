@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Hard Target 2

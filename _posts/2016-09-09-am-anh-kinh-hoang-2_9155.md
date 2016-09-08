@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: The Conjuring 2

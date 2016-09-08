@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Fantastic Beasts and...

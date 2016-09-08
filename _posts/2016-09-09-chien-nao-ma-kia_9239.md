@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Let's Fight Ghost
