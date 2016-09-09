@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: No One Lives
 thumb: http://cdn.phim3s.net/images/films/thumb/khong-chua-mot-ai-no-one-lives-2012.jpg
 ---

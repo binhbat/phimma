@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Repo! The Genetic Opera
 thumb: http://cdn.phim3s.net/images/films/thumb/vo-nhac-kich-kinh-di-repo-the-genetic-opera-2008.jpg
 ---

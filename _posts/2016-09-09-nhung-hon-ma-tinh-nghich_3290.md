@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Dead Gorgeous
 thumb: http://cdn.phim3s.net/images/films/thumb/nhung-hon-ma-tinh-nghich-dead-gorgeous-2012.jpg
 ---

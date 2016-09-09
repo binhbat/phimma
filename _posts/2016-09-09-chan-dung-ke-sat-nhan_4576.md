@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Faces in the Crowd
 thumb: http://cdn.phim3s.net/images/films/thumb/chan-dung-ke-sat-nhan-faces-in-the-crowd-2011.jpg
 ---

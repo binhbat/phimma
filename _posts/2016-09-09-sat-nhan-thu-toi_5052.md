@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Confession Of Murder
 thumb: http://cdn.phim3s.net/images/films/thumb/sat-nhan-thu-toi-confession-of-murder-2012.jpg
 ---

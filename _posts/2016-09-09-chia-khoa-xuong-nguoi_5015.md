@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Skeleton Key
 thumb: http://cdn.phim3s.net/images/films/thumb/chia-khoa-xuong-nguoi-the-skeleton-key-2005.jpg
 ---

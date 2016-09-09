@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Werewolf: The Beast Among...
 thumb: http://cdn.phim3s.net/images/films/thumb/tieu-diet-ma-soi-werewolf-the-beast-among-us-2012.jpg
 ---

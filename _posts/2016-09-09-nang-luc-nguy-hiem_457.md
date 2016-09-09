@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Seconds Apart
 thumb: http://cdn.phim3s.net/images/films/thumb/nang-luc-nguy-hiem-seconds-apart.jpg
 ---

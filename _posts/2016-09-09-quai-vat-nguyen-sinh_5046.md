@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Primal
 thumb: http://cdn.phim3s.net/images/films/thumb/quai-vat-nguyen-sinh-primal-2010.jpg
 ---

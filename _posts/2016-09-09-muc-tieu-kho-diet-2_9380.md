@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Hard Target 2
 thumb: http://cdn.phim3s.net/images/films/thumb/muc-tieu-kho-diet-2-hard-target-2-2016.jpg
 ---

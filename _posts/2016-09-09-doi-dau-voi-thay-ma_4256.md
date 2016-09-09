@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Cockneys vs Zombies
 thumb: http://cdn.phim3s.net/images/films/thumb/thay-ma-tro-lai-cockneys-vs-zombies-2012.jpg
 ---

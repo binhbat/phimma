@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Splintered
 thumb: http://cdn.phim3s.net/images/films/thumb/sat-nhan-thu-tinh-splintered-2010.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Reign
 thumb: http://cdn.phim3s.net/images/films/thumb/bi-mat-vuong-trieu-reign-2013.jpg
 ---

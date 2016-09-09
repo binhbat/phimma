@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Vanishing on 7th Street...
 thumb: http://cdn.phim3s.net/images/films/thumb/bien-mat-tren-duong-so-7-vanishing-on-7th-street-2010.jpg
 ---

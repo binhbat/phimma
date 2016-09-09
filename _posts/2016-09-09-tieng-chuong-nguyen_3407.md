@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Sairen
 thumb: http://cdn.phim3s.net/images/films/thumb/tieng-chuong-nguyen-sairen-2006.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Broken City
 thumb: http://cdn.phim3s.net/images/films/thumb/thanh-pho-toi-ac-broken-city-2013.jpg
 ---

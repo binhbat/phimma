@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Machete
 thumb: http://cdn.phim3s.net/images/films/thumb/tap-doan-sat-thu-machete-2010.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Tucker and Dale vs Evil
 thumb: http://cdn.phim3s.net/images/films/thumb/ky-nghi-kinh-hoang-tucker-and-dale-vs-evil.jpg
 ---

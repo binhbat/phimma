@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Experiment
 thumb: http://cdn.phim3s.net/images/films/thumb/nhung-ke-thi-nghiem-the-experiment-2010.jpg
 ---

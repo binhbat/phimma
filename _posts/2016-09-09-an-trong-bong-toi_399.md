@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Don't Be Afraid Of The...
 thumb: http://cdn.phim3s.net/images/films/thumb/don-t-be-afraid-of-the-dark-don-t-be-afraid-of-the-dark.jpg
 ---

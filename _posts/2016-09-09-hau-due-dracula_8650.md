@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Nocturna
 thumb: http://cdn.phim3s.net/images/films/thumb/hau-due-dracul-nocturna-2015.jpg
 ---

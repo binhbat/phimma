@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: It Follows
 thumb: http://cdn.phim3s.net/images/films/thumb/cuoc-di-san-cua-quy-it-follows-2015.jpg
 ---

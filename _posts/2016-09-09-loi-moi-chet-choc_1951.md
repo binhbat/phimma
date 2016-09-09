@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Invitation Only
 thumb: http://cdn.phim3s.net/images/films/thumb/loi-moi-chet-choc-invitation-only-2009.jpg
 ---

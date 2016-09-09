@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Way of the Wicked
 thumb: http://cdn.phim3s.net/images/films/thumb/loi-nguyen-ac-ma-way-of-the-wicked-2014.jpg
 ---

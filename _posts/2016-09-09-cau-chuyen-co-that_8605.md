@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: True Story
 thumb: http://cdn.phim3s.net/images/films/thumb/cau-chuyen-co-that-true-story-2015.jpg
 ---

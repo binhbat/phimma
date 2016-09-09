@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Cat
 thumb: http://cdn.phim3s.net/images/films/thumb/mat-meo-hoang-dai-the-cat-2011.jpg
 ---

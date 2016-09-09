@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Final Girls
 thumb: http://cdn.phim3s.net/images/films/thumb/nhung-co-gai-cuoi-cung-the-final-girls-2015.jpg
 ---

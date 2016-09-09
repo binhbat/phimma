@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Alien 3
 thumb: http://cdn.phim3s.net/images/films/thumb/quai-vat-khong-gian-3-alien-3-1992.jpg
 ---

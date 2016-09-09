@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Pressure
 thumb: http://cdn.phim3s.net/images/films/thumb/ap-suat-bien-sau-pressure-2015.jpg
 ---

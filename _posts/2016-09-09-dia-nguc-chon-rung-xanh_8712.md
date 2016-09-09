@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Green Inferno
 thumb: http://cdn.phim3s.net/images/films/thumb/dia-nguc-chon-rung-xanh-the-green-inferno-2015.jpg
 ---

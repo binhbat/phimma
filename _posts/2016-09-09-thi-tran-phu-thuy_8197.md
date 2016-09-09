@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Salem
 thumb: http://cdn.phim3s.net/images/films/thumb/thi-tran-phu-thuy-salem-2014.jpg
 ---

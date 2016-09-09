@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Fragiles
 thumb: http://cdn.phim3s.net/images/films/thumb/benh-vien-kinh-hoang-fragiles-2005.jpg
 ---

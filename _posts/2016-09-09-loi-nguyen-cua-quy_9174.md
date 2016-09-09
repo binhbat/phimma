@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Take Me Home
 thumb: http://cdn.phim3s.net/images/films/thumb/loi-nguyen-cua-quy-take-me-home-2016.jpg
 ---

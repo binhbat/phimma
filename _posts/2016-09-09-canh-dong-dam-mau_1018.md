@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Husk
 thumb: http://cdn.phim3s.net/images/films/thumb/canh-dong-dam-mau-husk-2011.jpg
 ---

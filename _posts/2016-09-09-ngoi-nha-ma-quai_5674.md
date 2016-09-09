@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Monster House
 thumb: http://cdn.phim3s.net/images/films/thumb/ngoi-nha-ma-quai-monster-house-2006.jpg
 ---

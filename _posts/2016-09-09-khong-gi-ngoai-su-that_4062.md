@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Nothing But the Truth
 thumb: http://cdn.phim3s.net/images/films/thumb/khong-gi-ngoai-su-that-nothing-but-the-truth-2008.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Prometheus
 thumb: http://cdn.phim3s.net/images/films/thumb/bi-an-hanh-tinh-chet-prometheus-2012.jpg
 ---

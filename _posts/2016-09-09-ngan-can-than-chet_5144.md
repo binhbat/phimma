@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Jacket
 thumb: http://cdn.phim3s.net/images/films/thumb/ngan-can-than-chet-the-jacket-2005.jpg
 ---

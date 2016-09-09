@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Bermuda Tentacles
 thumb: http://cdn.phim3s.net/images/films/thumb/tam-giac-quy-bermuda-bermuda-tentacles-2014-2014.jpg
 ---

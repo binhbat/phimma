@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Martyrs
 thumb: http://cdn.phim3s.net/images/films/thumb/ky-uc-nguyen-rua-martyrs.jpg
 ---

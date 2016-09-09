@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Cell
 thumb: http://cdn.phim3s.net/images/films/thumb/tin-hieu-diet-vong-cell-2016.jpg
 ---

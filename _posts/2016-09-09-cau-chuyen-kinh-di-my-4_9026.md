@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: American Horror Story 4
 thumb: http://cdn.phim3s.net/images/films/thumb/cau-chuyen-kinh-di-my-4-american-horror-story-4-2014.jpg
 ---

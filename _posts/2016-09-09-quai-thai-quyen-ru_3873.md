@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Splice
 thumb: http://cdn.phim3s.net/images/films/thumb/quai-thai-quyen-ru-splice-2010.jpg
 ---

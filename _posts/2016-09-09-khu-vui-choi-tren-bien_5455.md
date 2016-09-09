@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Donkey Punch
 thumb: http://cdn.phim3s.net/images/films/thumb/khu-vui-choi-tren-bien-donkey-punch-2008.jpg
 ---

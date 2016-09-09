@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Vacancy
 thumb: http://cdn.phim3s.net/images/films/thumb/nha-tro-kinh-hoang-vacancy-2007.jpg
 ---

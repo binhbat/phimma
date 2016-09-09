@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Outpost Black Sun
 thumb: http://cdn.phim3s.net/images/films/thumb/doi-quan-dia-nguc-outpost-black-sun-2012.jpg
 ---

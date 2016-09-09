@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Assault On Wall Street
 thumb: http://cdn.phim3s.net/images/films/thumb/sat-thu-pho-wall-assault-on-wall-street-2013.jpg
 ---

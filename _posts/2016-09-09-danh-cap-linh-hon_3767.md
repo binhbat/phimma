@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Possession
 thumb: http://cdn.phim3s.net/images/films/thumb/danh-cap-linh-hon-the-possession-2012.jpg
 ---

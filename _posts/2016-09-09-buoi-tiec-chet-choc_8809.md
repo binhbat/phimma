@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Deathday Party
 thumb: http://cdn.phim3s.net/images/films/thumb/buoi-tiec-chet-choc-the-deathday-party-2014.jpg
 ---

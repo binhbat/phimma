@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: V/H/S 2
 thumb: http://cdn.phim3s.net/images/films/thumb/doan-bang-kinh-hoang-2-vhs-2-2013.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Hannibal 1
 thumb: http://cdn.phim3s.net/images/films/thumb/hannibal-hannibal-2013.jpg
 ---

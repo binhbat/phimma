@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Visions
 thumb: http://cdn.phim3s.net/images/films/thumb/diem-bao-kinh-hoang-visions-2015.jpg
 ---

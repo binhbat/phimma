@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Cold Prey 3
 thumb: http://cdn.phim3s.net/images/films/thumb/moi-nhu-rung-hoang-3-cold-prey-3-2010.jpg
 ---

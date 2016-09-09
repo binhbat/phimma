@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The ring
 thumb: http://cdn.phim3s.net/images/films/thumb/vong-tron-dinh-menh-the-ring-2016.jpg
 ---

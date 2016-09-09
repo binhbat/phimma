@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Under The Bed
 thumb: http://cdn.phim3s.net/images/films/thumb/duoi-gam-giuong-under-the-bed-2012.jpg
 ---

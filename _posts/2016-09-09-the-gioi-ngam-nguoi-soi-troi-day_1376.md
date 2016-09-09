@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Underworld: Rise of the...
 thumb: http://cdn.phim3s.net/images/films/thumb/the-gioi-ngam-nguoi-soi-troi-day-underworld-rise-of-the-lycans-2009.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Remains
 thumb: http://cdn.phim3s.net/images/films/thumb/thanh-pho-an-thit-nguoi-remains-2012.jpg
 ---

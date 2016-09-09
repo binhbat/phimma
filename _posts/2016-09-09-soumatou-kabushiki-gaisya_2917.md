@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Soumatou Kabushiki Gaisya
 thumb: http://cdn.phim3s.net/images/films/thumb/soumatou-kabushiki-gaisya-soumatou-kabushiki-gaisya-2012.jpg
 ---

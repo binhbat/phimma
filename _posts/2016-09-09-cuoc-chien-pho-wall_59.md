@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Margin Call
 thumb: http://cdn.phim3s.net/images/films/thumb/cuoc-chien-pho-wall.jpg
 ---

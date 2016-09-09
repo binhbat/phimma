@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Dreamcatcher
 thumb: http://cdn.phim3s.net/images/films/thumb/ke-duoi-bat-giac-mo-dreamcatcher-2003.jpg
 ---

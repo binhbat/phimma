@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: No Escape
 thumb: http://cdn.phim3s.net/images/films/thumb/khong-loi-thoat-no-escape-2015.jpg
 ---

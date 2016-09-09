@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Jannat 2
 thumb: http://cdn.phim3s.net/images/films/thumb/cuoc-chien-chong-buon-lau-jannat-2-2012.jpg
 ---

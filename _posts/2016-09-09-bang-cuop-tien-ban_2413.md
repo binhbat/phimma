@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Hard Boiled Sweets
 thumb: http://cdn.phim3s.net/images/films/thumb/bang-cuop-tien-ban-hard-boiled-sweets-2012.jpg
 ---

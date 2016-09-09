@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Cleanskin
 thumb: http://cdn.phim3s.net/images/films/thumb/cleanskin-cleanskin-2012.jpg
 ---

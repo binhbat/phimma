@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Laid To Rest
 thumb: http://cdn.phim3s.net/images/films/thumb/co-may-giet-nguoi-laid-to-rest-2009.jpg
 ---

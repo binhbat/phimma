@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Afflicted
 thumb: http://cdn.phim3s.net/images/films/thumb/suc-manh-phi-thuong-afflicted-2013.jpg
 ---

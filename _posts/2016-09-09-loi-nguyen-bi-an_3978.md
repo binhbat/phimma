@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Paranormal Activity 4
 thumb: http://cdn.phim3s.net/images/films/thumb/loi-nguyen-bi-an-paranormal-activity-4-2012.jpg
 ---

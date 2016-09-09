@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Vanished Murderer
 thumb: http://cdn.phim3s.net/images/films/thumb/hung-thu-bien-mat-the-vanished-murderer-2015.jpg
 ---

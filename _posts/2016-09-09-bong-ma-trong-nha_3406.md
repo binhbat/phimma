@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Apparition
 thumb: http://cdn.phim3s.net/images/films/thumb/bong-ma-trong-nha-the-apparition-2012.jpg
 ---

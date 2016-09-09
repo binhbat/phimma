@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Orc Wars
 thumb: http://cdn.phim3s.net/images/films/thumb/cuoc-chien-chong-quai-vat-orc-wars-2013.jpg
 ---

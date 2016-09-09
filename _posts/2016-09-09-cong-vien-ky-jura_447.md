@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Jurassic Park
 thumb: http://cdn.phim3s.net/images/films/thumb/cong-vien-ky-jura-1-jurassic-park.jpg
 ---

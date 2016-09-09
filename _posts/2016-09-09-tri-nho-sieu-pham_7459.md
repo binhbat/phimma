@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Nou Otoko
 thumb: http://cdn.phim3s.net/images/films/thumb/tri-nho-sieu-pham-nou-otoko-2013.jpg
 ---

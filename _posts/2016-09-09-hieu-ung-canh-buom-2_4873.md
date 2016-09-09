@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Butterfly Effect 2
 thumb: http://cdn.phim3s.net/images/films/thumb/hieu-ung-canh-buom-2-the-butterfly-effect-2-2006.jpg
 ---

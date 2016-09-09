@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Conjuring
 thumb: http://cdn.phim3s.net/images/films/thumb/am-anh-kinh-hoang-the-conjuring-2013.jpg
 ---

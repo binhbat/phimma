@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Blood Stained Shoes
 thumb: http://cdn.phim3s.net/images/films/thumb/bi-an-giay-tu-hoa-blood-stained-shoes-2012.jpg
 ---

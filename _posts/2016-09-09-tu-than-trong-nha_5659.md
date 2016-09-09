@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Home Sweet Home
 thumb: http://cdn.phim3s.net/images/films/thumb/tu-than-trong-nha-home-sweet-home-2013.jpg
 ---

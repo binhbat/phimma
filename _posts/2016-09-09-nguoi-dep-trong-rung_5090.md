@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Thale
 thumb: http://cdn.phim3s.net/images/films/thumb/nguoi-dep-trong-rung-thale-2012.jpg
 ---

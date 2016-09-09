@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Frozen Ground
 thumb: http://cdn.phim3s.net/images/films/thumb/sat-nhan-nui-tuyet-the-frozen-ground-2013.jpg
 ---

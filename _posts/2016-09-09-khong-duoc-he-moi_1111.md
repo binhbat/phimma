@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Don't Say a Word
 thumb: http://cdn.phim3s.net/images/films/thumb/khong-duoc-he-moi-don-t-say-a-word.jpg
 ---

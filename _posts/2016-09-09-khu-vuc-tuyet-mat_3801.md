@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: 51 (2011)
 thumb: http://cdn.phim3s.net/images/films/thumb/khu-vuc-tuyet-mat-51-2011-2011.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Hungry Ghost Ritual
 thumb: http://cdn.phim3s.net/images/films/thumb/vu-lan-than-cong-hungry-ghost-ritual-2014.jpg
 ---

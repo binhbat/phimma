@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: A Little Bit Zombie
 thumb: http://cdn.phim3s.net/images/films/thumb/doi-quan-thay-ma-a-little-bit-zombie-2012.jpg
 ---

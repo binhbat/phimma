@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Cassadaga
 thumb: http://cdn.phim3s.net/images/films/thumb/sat-nhan-cuong-dam-cassadaga-2011.jpg
 ---

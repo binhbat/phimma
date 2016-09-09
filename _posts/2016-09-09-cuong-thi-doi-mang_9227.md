@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Zombies Back
 thumb: http://cdn.phim3s.net/images/films/thumb/cuong-thi-doi-mang-zombies-back-2016.jpg
 ---

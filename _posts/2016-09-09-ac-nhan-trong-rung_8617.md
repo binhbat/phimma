@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Dark Was the Night
 thumb: http://cdn.phim3s.net/images/films/thumb/ac-nhan-trong-rung-dark-was-the-night-2014.jpg
 ---

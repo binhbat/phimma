@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Zombie Diaries
 thumb: http://cdn.phim3s.net/images/films/thumb/ngay-tan-cua-nhan-loai-the-zombie-diaries.jpg
 ---

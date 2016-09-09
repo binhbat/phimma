@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Underworld Awakening
 thumb: http://cdn.phim3s.net/images/films/thumb/the-gioi-ngam-troi-day-underworld-awakening.jpg
 ---

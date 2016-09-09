@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Ulterior Motive
 thumb: http://cdn.phim3s.net/images/films/thumb/biet-huu-dong-co-ulterior-motive-2015.jpg
 ---

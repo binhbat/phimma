@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Jack Ryan: Shadow Recuit
 thumb: http://cdn.phim3s.net/images/films/thumb/jack-ryan-diep-vu-bong-dem-jack-ryan-shadow-recuit-2014.jpg
 ---

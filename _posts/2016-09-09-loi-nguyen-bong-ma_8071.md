@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Ju on: The Beginning of...
 thumb: http://cdn.phim3s.net/images/films/thumb/loi-nguyen-bong-ma-ju-on-the-beginning-of-the-end-2014.jpg
 ---

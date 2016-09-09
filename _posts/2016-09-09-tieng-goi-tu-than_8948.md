@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Angel Whispers
 thumb: http://cdn.phim3s.net/images/films/thumb/tieng-goi-tu-than-angel-whispers-2015.jpg
 ---

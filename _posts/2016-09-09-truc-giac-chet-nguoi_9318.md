@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Fatal Intuition
 thumb: http://cdn.phim3s.net/images/films/thumb/truc-giac-chet-nguoi-fatal-intuition-2015.jpg
 ---

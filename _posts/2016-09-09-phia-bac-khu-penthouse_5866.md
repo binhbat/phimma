@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Penthouse North
 thumb: http://cdn.phim3s.net/images/films/thumb/phia-bac-khu-penthouse-penthouse-north-2013.jpg
 ---

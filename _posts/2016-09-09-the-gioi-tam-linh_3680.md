@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Red Lights
 thumb: http://cdn.phim3s.net/images/films/thumb/the-gioi-tam-linh-red-lights-2012.jpg
 ---

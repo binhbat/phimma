@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Texas Chainsaw...
 thumb: http://cdn.phim3s.net/images/films/thumb/tu-than-vung-texas-khoi-dau-su-chet-choc-the-texas-chainsaw-massacre-the-beginning.jpg
 ---

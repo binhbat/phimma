@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: App
 thumb: http://cdn.phim3s.net/images/films/thumb/ung-dung-chet-nguoi-app-2013.jpg
 ---

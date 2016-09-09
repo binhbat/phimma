@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Happening
 thumb: http://cdn.phim3s.net/images/films/thumb/tham-hoa-toan-cau-the-happening-2008.jpg
 ---

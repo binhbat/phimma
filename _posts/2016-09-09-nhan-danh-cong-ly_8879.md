@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Drishyam
 thumb: http://cdn.phim3s.net/images/films/thumb/nhan-danh-cong-ly-drishyam-2015.jpg
 ---

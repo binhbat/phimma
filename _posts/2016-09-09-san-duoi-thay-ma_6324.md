@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Zombie Hunter
 thumb: http://cdn.phim3s.net/images/films/thumb/san-duoi-thay-ma-zombie-hunter-2013.jpg
 ---

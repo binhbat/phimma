@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Cabin Fever: Patient Zero
 thumb: http://cdn.phim3s.net/images/films/thumb/tram-dung-tu-than-cabin-fever-patient-zero-2014.jpg
 ---

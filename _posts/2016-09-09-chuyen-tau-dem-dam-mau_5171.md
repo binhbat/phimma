@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Midnight Meat Train
 thumb: http://cdn.phim3s.net/images/films/thumb/chuyen-tau-dem-dam-mau-the-midnight-meat-train-2008.jpg
 ---

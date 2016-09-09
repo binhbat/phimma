@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Misconduct
 thumb: http://cdn.phim3s.net/images/films/thumb/toi-ac-tham-nhung-misconduct-2016.jpg
 ---

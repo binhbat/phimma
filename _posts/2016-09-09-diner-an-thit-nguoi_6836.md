@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Cannibal Diner
 thumb: http://cdn.phim3s.net/images/films/thumb/diner-an-thit-nguoi-cannibal-diner-2013.jpg
 ---

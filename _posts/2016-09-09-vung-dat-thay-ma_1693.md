@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Zombieland
 thumb: http://cdn.phim3s.net/images/films/thumb/vung-dat-thay-ma-zombieland-2009.jpg
 ---

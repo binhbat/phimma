@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Sifu vs. Vampire
 thumb: http://cdn.phim3s.net/images/films/thumb/ong-toi-la-cuong-thi-sifu-vs-vampire-2014.jpg
 ---

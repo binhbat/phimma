@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: A Nightmare on Elm Street
 thumb: http://cdn.phim3s.net/images/films/thumb/ac-mong-chet-nguoi-a-nightmare-on-elm-street-2010.jpg
 ---

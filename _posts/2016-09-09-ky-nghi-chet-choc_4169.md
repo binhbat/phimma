@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Turistas
 thumb: http://cdn.phim3s.net/images/films/thumb/ky-nghi-chet-choc-turistas-2006.jpg
 ---

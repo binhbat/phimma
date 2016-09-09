@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Death Valley
 thumb: http://cdn.phim3s.net/images/films/thumb/thung-lung-chet-death-valley-2015.jpg
 ---

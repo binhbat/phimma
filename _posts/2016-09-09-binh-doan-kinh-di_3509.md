@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Puppet Master X: Axis...
 thumb: http://cdn.phim3s.net/images/films/thumb/binh-doan-kinh-di-puppet-master-x-axis-rising-2012.jpg
 ---

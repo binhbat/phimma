@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Ring
 thumb: http://cdn.phim3s.net/images/films/thumb/vong-tron-oan-nghiet-the-ring-1998.jpg
 ---

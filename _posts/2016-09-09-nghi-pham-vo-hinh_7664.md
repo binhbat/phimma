@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Usual Suspects
 thumb: http://cdn.phim3s.net/images/films/thumb/nghi-pham-vo-hinh-the-usual-suspects-1995.jpg
 ---

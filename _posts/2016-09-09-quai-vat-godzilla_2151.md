@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Godzilla
 thumb: http://cdn.phim3s.net/images/films/thumb/quai-vat-godzilla-godzilla-1998.jpg
 ---

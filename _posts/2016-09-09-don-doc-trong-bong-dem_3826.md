@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Alone in the Dark
 thumb: http://cdn.phim3s.net/images/films/thumb/don-doc-trong-bong-dem-alone-in-the-dark-2005.jpg
 ---

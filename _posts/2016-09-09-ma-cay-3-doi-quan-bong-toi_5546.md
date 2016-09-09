@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Army of Darkness
 thumb: http://cdn.phim3s.net/images/films/thumb/ma-cay-3-doi-quan-bong-toi-army-of-darkness-1992.jpg
 ---

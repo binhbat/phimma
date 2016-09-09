@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Scary Movie 3
 thumb: http://cdn.phim3s.net/images/films/thumb/scary-movie-3-scary-movie-3-2003.jpg
 ---

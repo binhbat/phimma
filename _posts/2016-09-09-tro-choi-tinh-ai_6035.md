@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Canyons
 thumb: http://cdn.phim3s.net/images/films/thumb/tro-choi-tinh-ai-the-canyons-2013.jpg
 ---

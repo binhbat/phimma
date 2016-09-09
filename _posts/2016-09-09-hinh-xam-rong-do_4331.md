@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Red Dragon
 thumb: http://cdn.phim3s.net/images/films/thumb/hinh-xam-rong-do-red-dragon-2002.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: 4Got10
 thumb: http://cdn.phim3s.net/images/films/thumb/ac-chien-noi-hoang-mac-4got10-2015.jpg
 ---

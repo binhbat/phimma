@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Christine
 thumb: http://cdn.phim3s.net/images/films/thumb/chiec-xe-tai-hoa-christine-1983.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Signal
 thumb: http://cdn.phim3s.net/images/films/thumb/tin-hieu-kich-dong-the-signal-2014.jpg
 ---

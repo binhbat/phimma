@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Godzilla
 thumb: http://cdn.phim3s.net/images/films/thumb/godzilla-2014-godzilla-2014.jpg
 ---

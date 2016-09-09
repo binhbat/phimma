@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Midnight Whisper
 thumb: http://cdn.phim3s.net/images/films/thumb/tieng-thi-tham-trong-dem-midnight-whisper-2015.jpg
 ---

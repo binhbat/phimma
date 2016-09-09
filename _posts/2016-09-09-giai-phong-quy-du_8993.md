@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Exeter
 thumb: http://cdn.phim3s.net/images/films/thumb/giai-phong-quy-du-exeter-2015.jpg
 ---

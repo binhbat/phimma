@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Bereavement
 thumb: http://cdn.phim3s.net/images/films/thumb/noi-dau-tot-cung-bereavement.jpg
 ---

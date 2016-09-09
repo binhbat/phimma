@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Blood: The Last Vampire
 thumb: http://cdn.phim3s.net/images/films/thumb/ma-ca-rong-cuoi-cung-blood-the-last-vampire-2009.jpg
 ---

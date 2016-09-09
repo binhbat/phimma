@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: True Lies
 thumb: http://cdn.phim3s.net/images/films/thumb/loi-noi-doi-chan-that-true-lies-1994.jpg
 ---

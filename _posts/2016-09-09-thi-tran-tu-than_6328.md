@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Dead in Tombstone
 thumb: http://cdn.phim3s.net/images/films/thumb/thi-tran-tu-than-dead-in-tombstone-2013.jpg
 ---

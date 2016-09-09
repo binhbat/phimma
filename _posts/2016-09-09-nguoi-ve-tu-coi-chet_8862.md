@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Revenant
 thumb: http://cdn.phim3s.net/images/films/thumb/nguoi-ve-tu-coi-chet-the-revenant-2015.jpg
 ---

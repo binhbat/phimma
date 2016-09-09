@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Exorcism Of Emily...
 thumb: http://cdn.phim3s.net/images/films/thumb/loi-nguyen-emily-rose-the-exorcism-of-emily-rose-2005.jpg
 ---

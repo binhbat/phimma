@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Dracula Dead And Loving...
 thumb: http://cdn.phim3s.net/images/films/thumb/ba-tuoc-ma-ca-rong-dracula-dead-and-loving-it-1995.jpg
 ---

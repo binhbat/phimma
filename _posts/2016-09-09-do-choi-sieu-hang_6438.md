@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Puppet Masters
 thumb: http://cdn.phim3s.net/images/films/thumb/do-choi-sieu-hang-the-puppet-masters-1994.jpg
 ---

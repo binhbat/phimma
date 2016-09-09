@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Alien Dawn
 thumb: http://cdn.phim3s.net/images/films/thumb/quai-vat-luc-binh-minh-alien-dawn-2012.jpg
 ---

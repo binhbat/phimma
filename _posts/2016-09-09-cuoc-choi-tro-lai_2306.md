@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Playback
 thumb: http://cdn.phim3s.net/images/films/thumb/cuoc-choi-tro-lai-playback-2012.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Circle Of Atonement
 thumb: http://cdn.phim3s.net/images/films/thumb/vong-tron-toi-ac-circle-of-atonement-2015.jpg
 ---

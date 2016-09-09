@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Mystic River
 thumb: http://cdn.phim3s.net/images/films/thumb/dong-song-toi-ac-mystic-river-2003.jpg
 ---

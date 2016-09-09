@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Retribution
 thumb: http://cdn.phim3s.net/images/films/thumb/giao-dich-sinh-tu-retribution-2015.jpg
 ---

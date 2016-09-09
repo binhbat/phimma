@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Domitoryo
 thumb: http://cdn.phim3s.net/images/films/thumb/oan-hon-ky-tuc-xa-domitoryo-2013.jpg
 ---

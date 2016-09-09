@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Age Of The Dead
 thumb: http://cdn.phim3s.net/images/films/thumb/ky-nguyen-bong-toi-age-of-the-dead-2015.jpg
 ---

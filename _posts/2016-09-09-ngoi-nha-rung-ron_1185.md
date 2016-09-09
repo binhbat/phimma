@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Amityville Horror
 thumb: http://cdn.phim3s.net/images/films/thumb/ngoi-nha-rung-ron-the-amityville-horror.jpg
 ---

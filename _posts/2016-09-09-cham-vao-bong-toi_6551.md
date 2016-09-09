@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Dark Touch
 thumb: http://cdn.phim3s.net/images/films/thumb/cham-vao-bong-toi-dark-touch-2013.jpg
 ---

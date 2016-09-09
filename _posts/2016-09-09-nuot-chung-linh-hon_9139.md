@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: They Found Hell
 thumb: http://cdn.phim3s.net/images/films/thumb/nuot-chung-linh-hon-they-found-hell-2016.jpg
 ---

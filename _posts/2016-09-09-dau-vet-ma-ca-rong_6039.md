@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Byzantium
 thumb: http://cdn.phim3s.net/images/films/thumb/dau-vet-ma-ca-rong-byzantium-2012.jpg
 ---

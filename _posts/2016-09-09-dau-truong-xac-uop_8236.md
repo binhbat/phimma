@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Zombie Fight Club
 thumb: http://cdn.phim3s.net/images/films/thumb/dau-truong-xac-uop-zombie-fight-club-2014.jpg
 ---

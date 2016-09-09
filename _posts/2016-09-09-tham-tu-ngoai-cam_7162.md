@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Ghost Seeing Detective...
 thumb: http://cdn.phim3s.net/images/films/thumb/ghost-seeing-detective-cheo-yong-ghost-seeing-detective-cheo-yong-2014.jpg
 ---

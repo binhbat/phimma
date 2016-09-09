@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Psychometry
 thumb: http://cdn.phim3s.net/images/films/thumb/ban-tay-ngoai-cam-psychometry-2013.jpg
 ---

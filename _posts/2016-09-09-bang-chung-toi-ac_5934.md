@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Evidence
 thumb: http://cdn.phim3s.net/images/films/thumb/bang-chung-toi-ac-evidence-2013.jpg
 ---

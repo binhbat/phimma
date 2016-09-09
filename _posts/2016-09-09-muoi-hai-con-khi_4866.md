@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Twelve Monkeys
 thumb: http://cdn.phim3s.net/images/films/thumb/muoi-hai-con-khi-twelve-monkeys-1995.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: BloodRayne Trilogy
 thumb: http://cdn.phim3s.net/images/films/thumb/giot-mau-ma-ca-rong-bloodrayne-trilogy-2005.jpg
 ---

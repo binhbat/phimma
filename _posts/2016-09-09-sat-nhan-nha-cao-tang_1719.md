@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Columbus Circle
 thumb: http://cdn.phim3s.net/images/films/thumb/sat-nhan-nha-cao-tang-columbus-circle-2012.jpg
 ---

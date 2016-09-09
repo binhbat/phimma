@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Horror Stories
 thumb: http://cdn.phim3s.net/images/films/thumb/nhung-chuyen-kinh-di-horror-stories-2012.jpg
 ---

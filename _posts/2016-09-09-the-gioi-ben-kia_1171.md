@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Hereafter
 thumb: http://cdn.phim3s.net/images/films/thumb/the-gioi-ben-kia-hereafter.jpg
 ---

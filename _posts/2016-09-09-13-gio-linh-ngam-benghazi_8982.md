@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: 13 Hours: The Secret...
 thumb: http://cdn.phim3s.net/images/films/thumb/13-gio-linh-ngam-benghazi-13-hours-the-secret-soldiers-of-benghazi-2016.jpg
 ---

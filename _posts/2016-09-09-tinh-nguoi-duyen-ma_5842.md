@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Pee Mak Prakanong
 thumb: http://cdn.phim3s.net/images/films/thumb/tinh-nguoi-duyen-ma-pee-mak-prakanong-2013.jpg
 ---

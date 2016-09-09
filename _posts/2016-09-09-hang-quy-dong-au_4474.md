@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Eastern Promises
 thumb: http://cdn.phim3s.net/images/films/thumb/hang-quy-dong-au-eastern-promises-2007.jpg
 ---

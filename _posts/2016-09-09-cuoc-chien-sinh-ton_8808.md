@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Submerged
 thumb: http://cdn.phim3s.net/images/films/thumb/cuoc-chien-sinh-ton-submerged-2015.jpg
 ---

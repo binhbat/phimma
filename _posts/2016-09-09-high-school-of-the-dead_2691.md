@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: High school of the Dead
 thumb: http://cdn.phim3s.net/images/films/thumb/high-school-of-the-dead-high-school-of-the-dead-2010.jpg
 ---

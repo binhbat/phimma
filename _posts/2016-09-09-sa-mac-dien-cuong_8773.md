@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Wild Desert
 thumb: http://cdn.phim3s.net/images/films/thumb/sa-mac-dien-cuong-wild-desert-2015.jpg
 ---

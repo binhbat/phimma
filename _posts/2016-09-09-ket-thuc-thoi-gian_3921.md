@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Harsh Times
 thumb: http://cdn.phim3s.net/images/films/thumb/ket-thuc-thoi-gian-harsh-times-2005.jpg
 ---

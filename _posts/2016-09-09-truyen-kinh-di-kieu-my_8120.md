@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: American Horror Story
 thumb: http://cdn.phim3s.net/images/films/thumb/truyen-kinh-di-kieu-my-american-horror-story-2011.jpg
 ---

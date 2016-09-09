@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Alien
 thumb: http://cdn.phim3s.net/images/films/thumb/quai-vat-khong-gian-1-alien-1-1979.jpg
 ---

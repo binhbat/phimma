@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Dark Fly 3D
 thumb: http://cdn.phim3s.net/images/films/thumb/chuyen-bay-dinh-menh-dark-fly-3d-2012.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Silent Hill
 thumb: http://cdn.phim3s.net/images/films/thumb/thi-tran-ma-quai-silent-hill-2006.jpg
 ---

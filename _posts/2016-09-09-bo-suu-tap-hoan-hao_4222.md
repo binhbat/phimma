@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Collection
 thumb: http://cdn.phim3s.net/images/films/thumb/bo-suu-tap-hoan-hao-the-collection-2012.jpg
 ---

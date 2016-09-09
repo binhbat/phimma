@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Hannibal 2
 thumb: http://cdn.phim3s.net/images/films/thumb/sat-nhan-mau-lanh-hannibal-season-02-2014.jpg
 ---

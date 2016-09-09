@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Butterfly Effect 3
 thumb: http://cdn.phim3s.net/images/films/thumb/hieu-ung-canh-buom-3-the-butterfly-effect-3-2009.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Old 37
 thumb: http://cdn.phim3s.net/images/films/thumb/sat-nhan-bien-thai-old-37-2015.jpg
 ---

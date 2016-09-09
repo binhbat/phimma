@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Rahtree Reborn
 thumb: http://cdn.phim3s.net/images/films/thumb/rahtree-dau-thai-rahtree-reborn-2009.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Jackie Brown
 thumb: http://cdn.phim3s.net/images/films/thumb/ke-hoach-cua-jackie-jackie-brown-1997.jpg
 ---

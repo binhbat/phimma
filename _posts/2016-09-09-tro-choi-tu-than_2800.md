@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Truth Or Dare
 thumb: http://cdn.phim3s.net/images/films/thumb/tro-choi-tu-than-truth-or-dare-2012.jpg
 ---

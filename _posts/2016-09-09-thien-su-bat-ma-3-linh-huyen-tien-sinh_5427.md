@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Mr Vampire 3
 thumb: http://cdn.phim3s.net/images/films/thumb/thien-su-bat-ma-3-linh-huyen-tien-sinh-mr-vampire-3-1987.jpg
 ---

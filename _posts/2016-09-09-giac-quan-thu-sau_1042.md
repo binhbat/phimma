@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Sixth Sense
 thumb: http://cdn.phim3s.net/images/films/thumb/giac-quan-thu-sau-the-sixth-sense.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: See No Evil 2
 thumb: http://cdn.phim3s.net/images/films/thumb/khong-thay-ac-quy-2-see-no-evil-2-2014.jpg
 ---

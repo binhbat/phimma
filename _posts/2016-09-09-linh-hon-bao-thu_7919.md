@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Deliver us From Evil
 thumb: http://cdn.phim3s.net/images/films/thumb/linh-hon-bao-thu-deliver-us-from-evil-2014.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Embrace of the Vampire
 thumb: http://cdn.phim3s.net/images/films/thumb/trong-vong-tay-quy-du-embrace-of-the-vampire-2013.jpg
 ---

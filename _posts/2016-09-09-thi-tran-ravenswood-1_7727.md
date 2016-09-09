@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Ravenswood Season 1
 thumb: http://cdn.phim3s.net/images/films/thumb/thi-tran-ravenswood-1-ravenswood-season-1-2013.jpg
 ---

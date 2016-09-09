@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Dark Tales
 thumb: http://cdn.phim3s.net/images/films/thumb/truyen-thuyet-lieu-trai-1-dark-tales-1996.jpg
 ---

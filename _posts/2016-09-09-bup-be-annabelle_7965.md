@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Annabelle
 thumb: http://cdn.phim3s.net/images/films/thumb/bup-be-annabelle-annabelle-2014.jpg
 ---

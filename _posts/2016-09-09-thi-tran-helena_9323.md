@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Duel
 thumb: http://cdn.phim3s.net/images/films/thumb/thi-tran-helena-the-duel-2016-2016.jpg
 ---

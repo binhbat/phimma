@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Autómata
 thumb: http://cdn.phim3s.net/images/films/thumb/nguoi-may-troi-day-automata-2014.jpg
 ---

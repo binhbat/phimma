@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Hush
 thumb: http://cdn.phim3s.net/images/films/thumb/su-yen-lang-chet-nguoi-hush-2016.jpg
 ---

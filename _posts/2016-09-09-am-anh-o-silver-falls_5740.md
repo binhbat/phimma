@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: A Haunting At Silver...
 thumb: http://cdn.phim3s.net/images/films/thumb/am-anh-o-silver-falls-a-haunting-at-silver-falls-2013.jpg
 ---

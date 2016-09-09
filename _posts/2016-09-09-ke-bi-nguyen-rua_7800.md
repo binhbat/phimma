@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: the damned
 thumb: http://cdn.phim3s.net/images/films/thumb/ke-bi-nguyen-rua-the-damned-2013.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Killer Toon
 thumb: http://cdn.phim3s.net/images/films/thumb/ky-an-truyen-tranh-killer-toon-2013.jpg
 ---

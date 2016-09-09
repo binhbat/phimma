@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Antiviral
 thumb: http://cdn.phim3s.net/images/films/thumb/chong-choi-virus-antiviral-2012.jpg
 ---

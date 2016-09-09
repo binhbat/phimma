@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Dead Snow 2
 thumb: http://cdn.phim3s.net/images/films/thumb/binh-doan-thay-ma-2-dead-snow-2-2014.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: All Cheerleaders Die
 thumb: http://cdn.phim3s.net/images/films/thumb/doi-nu-co-dong-ma-all-cheerleaders-die-2013.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Arctic Blast
 thumb: http://cdn.phim3s.net/images/films/thumb/tham-hoa-bang-tuyet-arctic-blast-2010.jpg
 ---

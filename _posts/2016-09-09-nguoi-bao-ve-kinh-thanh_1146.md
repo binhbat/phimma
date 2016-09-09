@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Bulletproof Monk
 thumb: http://cdn.phim3s.net/images/films/thumb/nguoi-bao-ve-kinh-thanh-bulletproof-monk.jpg
 ---

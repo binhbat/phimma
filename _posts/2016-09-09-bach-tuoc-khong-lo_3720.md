@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Deep Rising
 thumb: http://cdn.phim3s.net/images/films/thumb/bach-tuoc-khong-lo-deep-rising-1998.jpg
 ---

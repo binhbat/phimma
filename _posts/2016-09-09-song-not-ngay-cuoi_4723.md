@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: This Is The End
 thumb: http://cdn.phim3s.net/images/films/thumb/this-is-the-end-this-is-the-end-2013.jpg
 ---

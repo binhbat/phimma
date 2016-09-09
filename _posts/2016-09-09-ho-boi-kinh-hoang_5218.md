@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Swimming Pool
 thumb: http://cdn.phim3s.net/images/films/thumb/ho-boi-kinh-hoang-swimming-pool-2003.jpg
 ---

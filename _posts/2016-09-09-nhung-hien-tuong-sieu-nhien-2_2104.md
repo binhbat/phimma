@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Paranormal Activity 2
 thumb: http://cdn.phim3s.net/images/films/thumb/nhung-hien-tuong-sieu-nhien-2-paranormal-activity-2-2010.jpg
 ---

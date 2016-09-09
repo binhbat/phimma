@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Aliens 2
 thumb: http://cdn.phim3s.net/images/films/thumb/quai-vat-khong-gian-2-aliens-2-1986.jpg
 ---

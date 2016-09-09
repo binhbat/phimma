@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Tokyo Gore Police
 thumb: http://cdn.phim3s.net/images/films/thumb/canh-sat-truong-thanh-pho-tokyo-tokyo-gore-police.jpg
 ---

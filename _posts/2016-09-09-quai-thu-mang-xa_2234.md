@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Piranhaconda
 thumb: http://cdn.phim3s.net/images/films/thumb/quai-thu-mang-xa-piranhaconda-2012.jpg
 ---

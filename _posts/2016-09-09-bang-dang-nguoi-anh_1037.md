@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Lock Stock and Two...
 thumb: http://cdn.phim3s.net/images/films/thumb/bang-dang-nguoi-anh-lock-stock-and-two-smoking-barrels-1998.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Twenty8k
 thumb: http://cdn.phim3s.net/images/films/thumb/sat-thu-hinh-xam-twenty8k-2012.jpg
 ---

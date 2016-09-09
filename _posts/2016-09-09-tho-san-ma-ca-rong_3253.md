@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Abraham Lincoln: Vampire...
 thumb: http://cdn.phim3s.net/images/films/thumb/tho-san-ma-ca-rong-abraham-lincoln-vampire-hunter-2012.jpg
 ---

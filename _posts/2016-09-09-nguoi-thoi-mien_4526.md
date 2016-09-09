@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Hypnotist
 thumb: http://cdn.phim3s.net/images/films/thumb/nguoi-thoi-mien-the-hypnotist-2012.jpg
 ---

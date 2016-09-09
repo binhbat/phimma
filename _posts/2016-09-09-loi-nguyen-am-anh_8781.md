@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Ju on The Final Curse
 thumb: http://cdn.phim3s.net/images/films/thumb/loi-nguyen-am-anh-ju-on-the-final-curse-2015.jpg
 ---

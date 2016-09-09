@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Grimm 1
 thumb: http://cdn.phim3s.net/images/films/thumb/san-lung-quai-vat-1-grimm-1-2011.jpg
 ---

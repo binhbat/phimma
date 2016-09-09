@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Vampire Diaries
 thumb: http://cdn.phim3s.net/images/films/thumb/nhat-ky-ma-ca-rong-2-the-vampire-diaries-2010.jpg
 ---

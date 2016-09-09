@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Midnight Fm
 thumb: http://cdn.phim3s.net/images/films/thumb/tan-so-kinh-hoang-midnight-fm-2010.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Dead Shadows
 thumb: http://cdn.phim3s.net/images/films/thumb/bong-dem-chet-choc-dead-shadows-2012.jpg
 ---

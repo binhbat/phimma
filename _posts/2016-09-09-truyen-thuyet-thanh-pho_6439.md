@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Urban Legend
 thumb: http://cdn.phim3s.net/images/films/thumb/truyen-thuyet-thanh-pho-urban-legend-1998.jpg
 ---

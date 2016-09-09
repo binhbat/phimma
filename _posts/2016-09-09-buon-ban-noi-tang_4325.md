@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Traffikers
 thumb: http://cdn.phim3s.net/images/films/thumb/buon-ban-noi-tang-the-traffikers-2013.jpg
 ---

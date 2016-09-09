@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Another
 thumb: http://cdn.phim3s.net/images/films/thumb/su-thay-doi-bi-an-another-2012.jpg
 ---

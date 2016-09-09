@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Stephens Kings Thinner
 thumb: http://cdn.phim3s.net/images/films/thumb/loi-nguyen-giam-can-stephens-kings-thinner-1996.jpg
 ---

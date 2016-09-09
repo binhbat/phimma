@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Texas Chainsaw 3D
 thumb: http://cdn.phim3s.net/images/films/thumb/sat-nhan-vung-texas-texas-chainsaw-3d-2013.jpg
 ---

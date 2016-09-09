@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Twin Spirit
 thumb: http://cdn.phim3s.net/images/films/thumb/hon-ma-song-sinh-twin-spirit-2015.jpg
 ---

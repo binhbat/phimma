@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Jisatsu Circle
 thumb: http://cdn.phim3s.net/images/films/thumb/vong-quay-tu-sat-jisatsu-circle-2002.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: You're Next
 thumb: http://cdn.phim3s.net/images/films/thumb/nan-nhan-ke-tiep-youre-next-2013.jpg
 ---

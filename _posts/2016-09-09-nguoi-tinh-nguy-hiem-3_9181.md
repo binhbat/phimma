@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Hate Story 3
 thumb: http://cdn.phim3s.net/images/films/thumb/nguoi-tinh-nguy-hiem-3-hate-story-3-2015.jpg
 ---

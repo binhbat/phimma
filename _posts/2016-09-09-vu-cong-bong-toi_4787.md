@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Shadow Dancer
 thumb: http://cdn.phim3s.net/images/films/thumb/vu-cong-bong-toi-shadow-dancer-2012.jpg
 ---

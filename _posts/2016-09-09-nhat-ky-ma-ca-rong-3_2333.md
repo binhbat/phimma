@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Vampire Diaries 3
 thumb: http://cdn.phim3s.net/images/films/thumb/nhat-ky-ma-ca-rong-3-the-vampire-diaries-3-2012.jpg
 ---

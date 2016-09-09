@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Senior
 thumb: http://cdn.phim3s.net/images/films/thumb/tien-boi-toi-la-ma-senior-2016.jpg
 ---

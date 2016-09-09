@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Carrie
 thumb: http://cdn.phim3s.net/images/films/thumb/con-thinh-no-cua-carrie-carrie-white-2013.jpg
 ---

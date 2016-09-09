@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Under the Bed
 thumb: http://cdn.phim3s.net/images/films/thumb/quai-vat-duoi-gam-giuong-3-under-the-bed-2016.jpg
 ---

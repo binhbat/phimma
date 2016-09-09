@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Curse of the Witching...
 thumb: http://cdn.phim3s.net/images/films/thumb/loi-nguyen-cay-ma-quai-curse-of-the-witching-tree-2016.jpg
 ---

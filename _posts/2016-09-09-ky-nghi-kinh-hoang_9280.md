@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: All Girls Weekend
 thumb: http://cdn.phim3s.net/images/films/thumb/ky-nghi-kinh-hoang-all-girls-weekend-2016.jpg
 ---

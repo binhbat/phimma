@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Psycho
 thumb: http://cdn.phim3s.net/images/films/thumb/tam-than-hoang-loan-psycho.jpg
 ---

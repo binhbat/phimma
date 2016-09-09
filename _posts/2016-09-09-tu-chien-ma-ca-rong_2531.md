@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Daybreakers
 thumb: http://cdn.phim3s.net/images/films/thumb/tu-chien-ma-ca-rong-daybreakers-2009.jpg
 ---

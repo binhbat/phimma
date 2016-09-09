@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: Rear Window
 thumb: http://cdn.phim3s.net/images/films/thumb/cua-so-phia-sau-rear-window.jpg
 ---

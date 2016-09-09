@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: The Returned
 thumb: http://cdn.phim3s.net/images/films/thumb/tro-ve-tu-coi-chet-the-returned-2013.jpg
 ---

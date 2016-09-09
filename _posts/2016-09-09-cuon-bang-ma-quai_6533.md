@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sieutv
 title: All Hallows' Eve
 thumb: http://cdn.phim3s.net/images/films/thumb/cuon-bang-ma-quai-all-hallows-eve-2013.jpg
 ---
